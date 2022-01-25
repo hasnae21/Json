@@ -1,0 +1,38 @@
+[
+{
+    "name":"John",
+    "age":30,
+    "city":"New York",
+    "sale":true,
+    "middlename":null,
+    "employees":["John", "Anna", "Peter"]
+},
+{
+    "name":"John",
+    "age":30,
+    "city":"New York",
+    "sale":true,
+    "middlename":null,
+    "employees":["John", "Anna", "Peter"]
+},
+{
+    "name":"John",
+    "age":30,
+    "city":"New York",
+    "sale":true,
+    "middlename":null,
+    "employees":["John", "Anna", "Peter"]
+},
+{
+    "name":"John",
+    "age":30,
+    "city":"New York",
+    "sale":true,
+    "middlename":null,
+    "employee":{
+        "name":"John", 
+        "age":30, 
+        "city":"New York"
+    }
+}
+]
