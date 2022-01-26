@@ -1,0 +1,159 @@
+[
+    {
+        "Un_ID": "01",
+        "Une_désignation": "name",
+        "Un_prix": "20 000 000",
+        "Une_catégorie": "Esence",
+        "Une_disponibilité": [
+            "Tanger",
+            "Casa",
+            "Rabat"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "02",
+        "Une_désignation": "name",
+        "Un_prix": "30 000 000",
+        "Une_catégorie": "Diesel",
+        "Une_disponibilité": [
+            "Casa",
+            "Rabat"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "03",
+        "Une_désignation": "name",
+        "Un_prix": "40 000 000",
+        "Une_catégorie": "électrique",
+        "Une_disponibilité": [
+            "Tanger",
+            "Casa",
+            "Marackech"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "04",
+        "Une_désignation": "name",
+        "Un_prix": "50 000 000",
+        "Une_catégorie": "Diesel",
+        "Une_disponibilité": [
+            "Tanger",
+            "Rabat"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "05",
+        "Une_désignation": "name",
+        "Un_prix": "60 000 000",
+        "Une_catégorie": "électrique",
+        "Une_disponibilité": [
+            "Tanger",
+            "Casa",
+            "Rabat",
+            "Marackech"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "06",
+        "Une_désignation": "name",
+        "Un_prix": "70 000 000",
+        "Une_catégorie": "Esence",
+        "Une_disponibilité": [
+            "Tanger",
+            "Rabat"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "07",
+        "Une_désignation": "name",
+        "Un_prix": "80 000 000",
+        "Une_catégorie": "Hybride",
+        "Une_disponibilité": [
+            "Tanger",
+            "Casa",
+            "Marackech"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "08",
+        "Une_désignation": "name",
+        "Un_prix": "90 000 000",
+        "Une_catégorie": "Hybride",
+        "Une_disponibilité": [
+            "Casa",
+            "Rabat"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+
+    {
+        "Un_ID": "09",
+        "Une_désignation": "name",
+        "Un_prix": " 100 000",
+        "Une_catégorie": "électrique",
+        "Une_disponibilité": [
+            "Tanger",
+            "Casa",
+            "Rabat"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    },
+    
+    {
+        "Un_ID": "10",
+        "Une_désignation": "name",
+        "Un_prix": "80 000 000",
+        "Une_catégorie": "Hybride",
+        "Une_disponibilité": [
+            "Tanger",
+            "Casa",
+            "Rabat",
+            "Marackech"
+        ],
+        "Un_fournisseur": {
+            "Raison_Sociale": "nom",
+            "Adresse": "Adresse"
+        }
+    }
+]

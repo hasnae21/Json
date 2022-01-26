@@ -1,16 +1,31 @@
 tbody{
-    background: rgba(117, 117, 117, 0.5);
+    color: black;
+    background-color: rgba(117, 117, 117, 0.5);
 }
-tr{
-    background: #910705;
+td{
+    color: black;
+    text-align: center;
+    padding: 2px 20px;
 }
 th{
+    background-color: black;
     margin: auto;
     width: 130px;
     height: 60px;
-    /* padding: 25px 28PX; */
     color: white;
     font-weight: bolder;
     font-size: 12px;
     text-transform: uppercase;
+}
+input{
+    padding-left: 10px;
+    width: 450PX;
+    height: 35px;
+    font-size: 15px;
+    font-weight:bold;
+    color: #000;
+    background-color: white;
+    border: 1PX solid #000;
+    margin: 20px 0px;
+    border-radius: 10px;
 }
