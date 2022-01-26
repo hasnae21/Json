@@ -1,33 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="stylesheet" href="/css/style.css">
-    <title>Produits</title>
-    <script src="/js/jquery-3.6.0.js"></script>
-
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+  <title>Produits</title>
+  <script src="/js/jquery-3.6.0.js"></script>
 </head>
 <body>
-<div class="container" align="center">
-<input type="search" id="search" placeholder="Entrer La désignation du produit">    
-<table id="total-Produits">
-        <thead>
-          <tr>
-            <th onclick="order();">ID</th>
-            <th onclick="order();" >Désignation</th>
-            <th onclick="order();">Prix</th>
-            <th onclick="order();" >Catégorie</th>
-            <th onclick="order();" >disponibilité</th>
-            <th onclick="order();" >fournisseur</th>
-          </tr>
-        </thead>
-        <tbody id="mytbody"> 
-        </tbody>
-</table>
-</div>
-<script src="/js/script.js"></script>
+  <div class="container" align="center">
+    <input type="search" id="search" placeholder="Entrer La désignation du produit">
+    <table id="total-Produits">
+      <thead>
+        <tr>
+          <th onclick="order();">ID</th>
+          <th onclick="order();">Désignation</th>
+          <th onclick="order();">Prix</th>
+          <th onclick="order();">Catégorie</th>
+          <th onclick="order();">disponibilité</th>
+          <th onclick="order();">fournisseur</th>
+        </tr>
+      </thead>
+      <tbody id="mytbody">
+      </tbody>
+    </table>
+  </div>
+  <script src="/js/script.js"></script>
 </body>
 </html>
