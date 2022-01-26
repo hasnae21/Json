@@ -1,4 +1,5 @@
 let myJson ='Products.json';
+console,log(myJson);
 let myJS = JSON.parse(myJson);
 // myJs.name;
 

@@ -1,0 +1,16 @@
+tbody{
+    background: rgba(117, 117, 117, 0.5);
+}
+tr{
+    background: #910705;
+}
+th{
+    margin: auto;
+    width: 130px;
+    height: 60px;
+    /* padding: 25px 28PX; */
+    color: white;
+    font-weight: bolder;
+    font-size: 12px;
+    text-transform: uppercase;
+}
