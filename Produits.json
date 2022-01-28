@@ -1,239 +1,223 @@
 [
     {
-        "Un_ID": "01",
-        "Une_désignation": "name",
-        "Un_prix": "20 000 000",
-        "Une_catégorie": "Esence",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat"
+        "Année_de_sortie": 2021,
+        "désignation": "AUDI A3",
+        "prix": 460000,
+        "Catégorie" : "Compact",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Automatique",
+        "consomation" : {
+            "ville": "4.6 l/100 km",
+            "route": "3.4 l/100 km",
+            "mixte" : 5.1 
+        },
+        "securite" :[
+            "Airbag(s)",
+            "Abs" ,
+            "EPS" ,
+            "Antidémarrage",
+            "Antipatinage"
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "AUDI",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "AUDI"
     },
 
     {
-        "Un_ID": "02",
-        "Une_désignation": "name",
-        "Un_prix": "30 000 000",
-        "Une_catégorie": "Diesel",
-        "Une_disponibilité": [
-            "Casa",
-            "Rabat"
+        "Année_de_sortie": 2019,
+        "désignation": "BMW SERIE 3",
+        "prix": 412000,
+        "Catégorie" : "Berline",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Automatique",
+        "consomation" : {
+            "ville" : "5,4 l/100 km" ,
+            "route" : "3,8 l/100 km",
+            "mixte" : 5.1 
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "EPS" ,
+            "Antidémarrage",
+            "Antipatinage"
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "BMW",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "BMW"
+
     },
 
     {
-        "Un_ID": "03",
-        "Une_désignation": "name",
-        "Un_prix": "40 000 000",
-        "Une_catégorie": "électrique",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Marackech"
+        "Année_de_sortie": 2021,
+        "désignation": "CITROEN Ami",
+        "prix": 85900,
+        "Catégorie" : "Citadine",
+        "Carburant": "Electrique",
+        "Boite_de_vitesses" : "Automatique",
+        "consomation" : {
+            "ville" : "l/100 km" ,
+            "route" : "l/100 km",
+            "mixte" : 5.1 
+        },
+        "securite" :[
+            "" ,
+            "" ,
+            "" ,
+            "",
+            "" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "CITROEN",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "CITROEN"
     },
 
     {
-        "Un_ID": "04",
-        "Une_désignation": "name",
-        "Un_prix": "50 000 000",
-        "Une_catégorie": "Diesel",
-        "Une_disponibilité": [
-            "Tanger",
-            "Rabat"
+        "Année_de_sortie": 2021,
+        "désignation": "DACIA DUSTER",
+        "prix": 169800,
+        "Catégorie" : "Suv et 4x4",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Manuelle",
+        "consomation" : {
+            "ville" : "5.7 l/100 km" ,
+            "route" : "4.9 l/100 km",
+            "mixte" : 5.1
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "" ,
+            "Antidémarrage",
+            "Antipatinage" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "DACIA",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "DACIA"
     },
 
     {
-        "Un_ID": "05",
-        "Une_désignation": "name",
-        "Un_prix": "60 000 000",
-        "Une_catégorie": "électrique",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
+        "Année_de_sortie": 2020,
+        "désignation": "FORD KUGA",
+        "prix": 246000,
+        "Catégorie" : "Suv et 4x4",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Manuelle",
+        "consomation" : {
+            "ville" : "l/100 km" ,
+            "route" : "l/100 km" ,
+            "mixte" : 4.5
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "EPS" ,
+            "Antidémarrage",
+            "Antipatinage" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "FORD",
-            "Adresse": "Adresse"
-        }
+        "fournisseur":  "FORD"
     },
 
     {
-        "Un_ID": "06",
-        "Une_désignation": "name",
-        "Un_prix": "70 000 000",
-        "Une_catégorie": "Esence",
-        "Une_disponibilité": [
-            "Tanger",
-            "Rabat"
+        "Année_de_sortie": 2019,
+        "désignation": "HYUNDAI I20",
+        "prix": 157500,
+        "Catégorie" : "Citadine",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Manuelle",
+        "consomation" : {
+            "ville" : "4,9 l/100 km" ,
+            "route" : "3,5 l/100 km" ,
+            "mixte" : 4.1
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "" ,
+            "Antidémarrage",
+            "" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "HYUNDAI",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "HYUNDAI"
     },
 
     {
-        "Un_ID": "07",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Marackech"
+        "Année_de_sortie": 2020,
+        "désignation": "KIA K5",
+        "prix": 329000,
+        "Catégorie" : "Berline",
+        "Carburant": "Hybride",
+        "Boite_de_vitesses" : "Automatique",
+        "consomation" : {
+            "ville" : "5.0 l/100 km" ,
+            "route" : "3.9 l/100 km" ,
+            "mixte" : 4.3
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "EPS" ,
+            "Alarme",
+            "Antidémarrage",
+            "Antipatinage" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "KIA",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "KIA"
     },
 
     {
-        "Un_ID": "08",
-        "Une_désignation": "name",
-        "Un_prix": "90 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Casa",
-            "Rabat"
+        "Année_de_sortie": 2018,
+        "désignation": "MERCEDES CLASSE A",
+        "prix": 319000,
+        "Catégorie" : "Compact",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Automatique",
+        "consomation" : {
+            "ville" : "4.5 l/100 km" ,
+            "route" : "3.8 l/100 km" ,
+            "mixte" : 4.1
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "" ,
+            "Antidémarrage",
+            "Antipatinage"  
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "MERCEDES",
-            "Adresse": "Adresse"
-        }
+        "fournisseur": "MERCEDES"
     },
 
     {
-        "Un_ID": "09",
-        "Une_désignation": "name",
-        "Un_prix": " 100 000",
-        "Une_catégorie": "électrique",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat"
+        "Année_de_sortie": 2020,
+        "désignation": "NISSAN JUKE",
+        "prix": 194900,
+        "Catégorie" : "Crossover",
+        "Carburant": "Essence",
+        "Boite_de_vitesses" : "Manuelle",
+        "consomation" : {
+            "ville" : " l/100 km" ,
+            "route" : " l/100 km" ,
+            "mixte" : 4.9
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "EPS" ,
+            "Antidémarrage",
+            "Antipatinage" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "NISSAN",
-            "Adresse": "Adresse"
-        }
+        "fournisseur":"NISSAN"
     },
     
     {
-        "Un_ID": "10",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
+        "Année_de_sortie": 2021,
+        "désignation": "OPEL CROSSLAND",
+        "prix": 179000,
+        "Catégorie" : "Suv et 4x4",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Manuelle",
+        "consomation" : {
+            "ville" : " l/100 km" ,
+            "route" : " l/100 km" ,
+            "mixte" : 4
+        },
+        "securite" :[
+            "Airbag(s)" ,
+            "Abs" ,
+            "EPS" ,
+            "Antidémarrage",
+            "Antipatinage" 
         ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "OPEL",
-            "Adresse": "Adresse"
-        }
-    },
-    {
-        "Un_ID": "11",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
-        ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "PEUGEOT",
-            "Adresse": "Adresse"
-        }
-    },
-    {
-        "Un_ID": "12",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
-        ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "RENAULT",
-            "Adresse": "Adresse"
-        }
-    },
-    {
-        "Un_ID": "13",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
-        ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "SEAT",
-            "Adresse": "Adresse"
-        }
-    },
-    {
-        "Un_ID": "14",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
-        ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "SKODA",
-            "Adresse": "Adresse"
-        }
-    },
-    {
-        "Un_ID": "15",
-        "Une_désignation": "name",
-        "Un_prix": "80 000 000",
-        "Une_catégorie": "Hybride",
-        "Une_disponibilité": [
-            "Tanger",
-            "Casa",
-            "Rabat",
-            "Marackech"
-        ],
-        "Un_fournisseur": {
-            "Raison_Sociale": "VOLKSWAGEN",
-            "Adresse": "Adresse"
-        }
+        "fournisseur":  "OPEL"
     }
 ]
