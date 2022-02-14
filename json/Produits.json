@@ -2,19 +2,20 @@
     {
         "Année_de_sortie": 2021,
         "désignation": "AUDI A3",
-        "prix": 460000,
+        "prix": "460 000",
         "Catégorie" : "Compact",
         "Carburant": "Diesel",
         "Boite_de_vitesses" : "Automatique",
         "consomation" : {
             "ville": "4.6 l/100 km",
             "route": "3.4 l/100 km",
-            "mixte" : 5.1 
+            "mixte" : 5
         },
         "securite" :[
             "Airbag(s)",
             "Abs" ,
             "EPS" ,
+            "",
             "Antidémarrage",
             "Antipatinage"
         ],
@@ -24,21 +25,22 @@
     {
         "Année_de_sortie": 2019,
         "désignation": "BMW SERIE 3",
-        "prix": 412000,
+        "prix": "412 000",
         "Catégorie" : "Berline",
         "Carburant": "Diesel",
         "Boite_de_vitesses" : "Automatique",
         "consomation" : {
             "ville" : "5,4 l/100 km" ,
             "route" : "3,8 l/100 km",
-            "mixte" : 5.1 
+            "mixte" : 5
         },
         "securite" :[
-            "Airbag(s)" ,
+            "Airbag(s)",
             "Abs" ,
             "EPS" ,
+            "",
             "Antidémarrage",
-            "Antipatinage"
+            ""
         ],
         "fournisseur": "BMW"
 
@@ -47,21 +49,22 @@
     {
         "Année_de_sortie": 2021,
         "désignation": "CITROEN Ami",
-        "prix": 85900,
+        "prix": "85 900",
         "Catégorie" : "Citadine",
         "Carburant": "Electrique",
         "Boite_de_vitesses" : "Automatique",
         "consomation" : {
             "ville" : "l/100 km" ,
             "route" : "l/100 km",
-            "mixte" : 5.1 
+            "mixte" : 5
         },
         "securite" :[
-            "" ,
+            "",
             "" ,
             "" ,
             "",
-            "" 
+            "",
+            ""
         ],
         "fournisseur": "CITROEN"
     },
@@ -69,21 +72,22 @@
     {
         "Année_de_sortie": 2021,
         "désignation": "DACIA DUSTER",
-        "prix": 169800,
+        "prix": "169 800",
         "Catégorie" : "Suv et 4x4",
         "Carburant": "Diesel",
         "Boite_de_vitesses" : "Manuelle",
         "consomation" : {
             "ville" : "5.7 l/100 km" ,
             "route" : "4.9 l/100 km",
-            "mixte" : 5.1
+            "mixte" : 5
         },
         "securite" :[
-            "Airbag(s)" ,
+            "Airbag(s)",
             "Abs" ,
-            "" ,
+            "EPS" ,
             "Antidémarrage",
-            "Antipatinage" 
+            "Antipatinage",
+            ""
         ],
         "fournisseur": "DACIA"
     },
@@ -91,21 +95,22 @@
     {
         "Année_de_sortie": 2020,
         "désignation": "FORD KUGA",
-        "prix": 246000,
+        "prix": "246 000",
         "Catégorie" : "Suv et 4x4",
         "Carburant": "Diesel",
         "Boite_de_vitesses" : "Manuelle",
         "consomation" : {
             "ville" : "l/100 km" ,
             "route" : "l/100 km" ,
-            "mixte" : 4.5
+            "mixte" : 4
         },
         "securite" :[
-            "Airbag(s)" ,
+            "Airbag(s)",
             "Abs" ,
             "EPS" ,
+            "",
             "Antidémarrage",
-            "Antipatinage" 
+            "Antipatinage"
         ],
         "fournisseur":  "FORD"
     },
@@ -113,21 +118,22 @@
     {
         "Année_de_sortie": 2019,
         "désignation": "HYUNDAI I20",
-        "prix": 157500,
+        "prix": "157 500",
         "Catégorie" : "Citadine",
         "Carburant": "Diesel",
         "Boite_de_vitesses" : "Manuelle",
         "consomation" : {
             "ville" : "4,9 l/100 km" ,
             "route" : "3,5 l/100 km" ,
-            "mixte" : 4.1
+            "mixte" : 4
         },
         "securite" :[
-            "Airbag(s)" ,
+            "Airbag(s)",
             "Abs" ,
-            "" ,
-            "Antidémarrage",
-            "" 
+            "EPS" ,
+            "",
+            "",
+            ""
         ],
         "fournisseur": "HYUNDAI"
     },
@@ -135,14 +141,14 @@
     {
         "Année_de_sortie": 2020,
         "désignation": "KIA K5",
-        "prix": 329000,
+        "prix": "329 000",
         "Catégorie" : "Berline",
         "Carburant": "Hybride",
         "Boite_de_vitesses" : "Automatique",
         "consomation" : {
             "ville" : "5.0 l/100 km" ,
             "route" : "3.9 l/100 km" ,
-            "mixte" : 4.3
+            "mixte" : 4
         },
         "securite" :[
             "Airbag(s)" ,
@@ -158,21 +164,22 @@
     {
         "Année_de_sortie": 2018,
         "désignation": "MERCEDES CLASSE A",
-        "prix": 319000,
+        "prix": "319 000",
         "Catégorie" : "Compact",
         "Carburant": "Diesel",
         "Boite_de_vitesses" : "Automatique",
         "consomation" : {
             "ville" : "4.5 l/100 km" ,
             "route" : "3.8 l/100 km" ,
-            "mixte" : 4.1
+            "mixte" : 4
         },
         "securite" :[
-            "Airbag(s)" ,
+            "Airbag(s)",
             "Abs" ,
-            "" ,
-            "Antidémarrage",
-            "Antipatinage"  
+            "EPS" ,
+            "Alarme",
+            "",
+            "Antipatinage"
         ],
         "fournisseur": "MERCEDES"
     },
@@ -180,31 +187,9 @@
     {
         "Année_de_sortie": 2020,
         "désignation": "NISSAN JUKE",
-        "prix": 194900,
+        "prix": "194 900",
         "Catégorie" : "Crossover",
         "Carburant": "Essence",
-        "Boite_de_vitesses" : "Manuelle",
-        "consomation" : {
-            "ville" : " l/100 km" ,
-            "route" : " l/100 km" ,
-            "mixte" : 4.9
-        },
-        "securite" :[
-            "Airbag(s)" ,
-            "Abs" ,
-            "EPS" ,
-            "Antidémarrage",
-            "Antipatinage" 
-        ],
-        "fournisseur":"NISSAN"
-    },
-    
-    {
-        "Année_de_sortie": 2021,
-        "désignation": "OPEL CROSSLAND",
-        "prix": 179000,
-        "Catégorie" : "Suv et 4x4",
-        "Carburant": "Diesel",
         "Boite_de_vitesses" : "Manuelle",
         "consomation" : {
             "ville" : " l/100 km" ,
@@ -215,8 +200,32 @@
             "Airbag(s)" ,
             "Abs" ,
             "EPS" ,
+            "",
+            "",
+            "" 
+        ],
+        "fournisseur":"NISSAN"
+    },
+    
+    {
+        "Année_de_sortie": 2021,
+        "désignation": "OPEL CROSSLAND",
+        "prix": "179 000",
+        "Catégorie" : "Suv et 4x4",
+        "Carburant": "Diesel",
+        "Boite_de_vitesses" : "Manuelle",
+        "consomation" : {
+            "ville" : " l/100 km" ,
+            "route" : " l/100 km" ,
+            "mixte" : 4
+        },
+        "securite" :[
+            "Airbag(s)",
+            "Abs" ,
+            "EPS" ,
+            "",
             "Antidémarrage",
-            "Antipatinage" 
+            "Antipatinage"
         ],
         "fournisseur":  "OPEL"
     }

@@ -1,27 +1,7 @@
-/* tbody{
-    color: black;
-    background-color: rgba(117, 117, 117, 0.5);
-    font-size: 15px;
-}
-td{
-    color: black;
-    text-align: center;
-    padding: 0px 5px;
-} */
-/* th{
-    background-color: black;
-    padding: 0px 5px;
-    height: 40px;
-    color: white;
-    font-weight: bolder;
-    font-size: 12px;
-    text-transform: uppercase;
-    cursor: pointer;
-} */
 ul{
-    margin: 5px 5px;
+    margin: 0px 5px;
     text-align: left;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 input{
     padding-left: 10px;
@@ -29,9 +9,16 @@ input{
     height: 35px;
     font-size: 15px;
     font-weight:bold;
-    color: white;
-    background-color: #000;
-    border: 3PX solid gray;
+    color: black;
+    background-color: transparent;
     margin: 20px 0px;
     border-radius: 10px;
+}
+::placeholder{
+    color:grey ;
+}
+/*class=" text-uppercase text-center " */
+tr th{
+cursor: pointer;
+text-transform: uppercase;
 }
